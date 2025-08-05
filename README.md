@@ -2,18 +2,18 @@
 
 This project presents an interactive **HR Analytics Dashboard** built using **Power BI**. It analyzes employee attrition based on various factors such as age, education, salary, job role, and experience.
 
-## 📁 Dataset
+##  Dataset
 
 - [HR_Analytics(3).csv](./HR_Analytics(3).csv) — Contains anonymized employee records including attrition status, age, salary, education, and job roles.
 
-## 📊 Power BI Dashboard
+##  Power BI Dashboard
 
 - Download the Power BI file: [HR analytics dashboard.pbix](./HR%20analytics%20dashboard.pbix)
 - Dashboard Screenshot:
 
 ![HR Analytics Dashboard](./dashboard%20img.png)
 
-## 🔍 Key Outcomes & Insights
+##  Key Outcomes & Insights
 
 - **Total Employees Analyzed:** 1,473
 - **Attrition Rate:** 65.83%
@@ -21,7 +21,7 @@ This project presents an interactive **HR Analytics Dashboard** built using **Po
 - **Average Salary:** $6.5K
 - **Average Years at Company:** 7.0 years
 
-### 🔹 Attrition by Factors:
+###  Attrition by Factors:
 
 - **Age Group with Highest Attrition:** 26–35 years
 - **Education Group with Highest Attrition:** Level 3 (41.14%)
@@ -29,14 +29,9 @@ This project presents an interactive **HR Analytics Dashboard** built using **Po
 - **Job Role with Highest Attrition:** Sales Executive (326 instances)
 - **Gender-wise Attrition:** Male (798), Female (517)
 
-## 🛠 Tools Used
 
-- **Power BI** – For data visualization and dashboard creation
-- **Microsoft Excel / CSV** – For data handling and cleaning
 
----
-
-## 📌 How to Use
+##  How to Use
 
 1. Clone the repository:
    ```bash
